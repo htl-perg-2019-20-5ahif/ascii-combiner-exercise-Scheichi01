@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AsciiArtCombiner/1.0.0": {
+        "dependencies": {
+          "AsciiArtCombinerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AsciiArtCombiner.dll": {}
+        }
+      },
+      "AsciiArtCombinerLibrary/1.0.0": {
+        "runtime": {
+          "AsciiArtCombinerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsciiArtCombiner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsciiArtCombinerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
